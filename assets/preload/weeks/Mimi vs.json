@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"mimi",
+			"mimi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"UGH mimi",
+			"mimi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "casa de mimi",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "mimi",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
